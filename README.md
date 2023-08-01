@@ -1,2 +1,2 @@
-# Repositori STT Kalimantan Pontianak
-Repositori ini berisi Thesis, Skripsi, Bahan Ajar dan Artikel-artikel Pendek semoga bermanfaat  
+# Repositori Artikel Lepas STT Kalimantan Pontianak
+Repositori ini berisi Artikel-artikel lepas dan pendek dari Dosen dan Mahasiswa 
